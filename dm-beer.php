@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Missoula Beer
+Plugin Name: DM Missoula Beer
 Plugin URI: http://draughtworksbrewery.com/
 Description: Helping ugly people get laid since 1862
-Version: 1.0.1
+Version: 1.0.3
 Author: Bradford Knowlton
 Author URI: http://bradknowlton.com/
 License: GPLv2
