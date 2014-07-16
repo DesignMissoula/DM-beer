@@ -3,13 +3,13 @@
 Plugin Name: Missoula Beer
 Plugin URI: http://draughtworksbrewery.com/
 Description: Helping ugly people get laid since 1862
-Version: 0.1
+Version: 1.0.1
 Author: Bradford Knowlton
 Author URI: http://bradknowlton.com/
 License: GPLv2
+GitHub Plugin URI: https://github.com/DesignMissoula/DM-beer
+GitHub Branch:     master
 */
-
-
 
 add_action( 'init', 'register_cpt_beer' );
 function register_cpt_beer() {
